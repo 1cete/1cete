@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1cete
-- 👀 I’m interested in tennis, gym, genetics, science projects, architecture, Italian culture...
-- 🌱 I’m currently learning bioinformatics/genetics
-- 📫 How to reach me dc - aistulencia
+- 👀 I’m interested in IT, genetics, science projects, architecture, Italian culture...
+- 🌱 I’m currently learning bioinformatics
 - 😄 Pronouns: she
 
 <!---
